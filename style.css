@@ -1,0 +1,17 @@
+.carousel-bg-color {
+  background-color: #feeae9;
+}
+
+.subscriber {
+  height: 300px;
+  background-color: #feeae9;
+}
+
+.btn-pink-gradient {
+  background: linear-gradient(-45deg, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+}
+
+.text-pink {
+  color: #ff136f;
+}
